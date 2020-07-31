@@ -13,7 +13,9 @@ You can add any windows terminal profile to the context menu.
 To do so, append following to the .reg file:
 
 Line 3: Caption of the menu item
+
 Line 4: Icon of the menu item (optional, remove line for no icon)
+
 Line 7: Name of the windows terminal profile
 
     ; menu item for powershell profile
